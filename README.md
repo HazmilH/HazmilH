@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Cloud Data Engineering
-- 📫 How to reach me: [LinkedIn/hazmil-h](https://www.linkedin.com/in/hazmil-h/)
+- 📫 How to reach me: [linkedIn/hazmil-h](https://www.linkedin.com/in/hazmil-h/)
 - 😄 Pronouns: He/him/his
 
 <!--
