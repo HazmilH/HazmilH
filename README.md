@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Cloud Data Engineering
 - 📫 How to reach me: [linkedIn/hazmil-h](https://www.linkedin.com/in/hazmil-h/)
-- 😄 Pronouns: He/him/his
 
 <!--
 **HazmilH/HazmilH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
