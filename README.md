@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Cloud Data Engineering
+- 🌱 I’m currently learning Data Engineering, AWS and Terraform
 - 📫 How to reach me: [linkedIn/hazmil-h](https://www.linkedin.com/in/hazmil-h/)
 
 <!--
